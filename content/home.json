@@ -1,0 +1,222 @@
+{
+  "heroKicker": "Lake Country Garage Door Service",
+  "heroIntro": "Broken spring, snapped cable, or an opener that quit on a cold morning? Oconomowoc Garage Door repairs, replaces and installs residential garage doors and openers across Oconomowoc and Lake Country. We find the real cause, explain your options in plain language, and quote the price before any work starts. Call early for same-day service.",
+  "about": {
+    "eyebrow": "About Our Company",
+    "h2a": "Garage Door Service Built",
+    "h2b": "Around Oconomowoc Homes",
+    "paragraphs": [
+      "Oconomowoc Garage Door is a residential garage door company focused on the homes in and around Oconomowoc. We repair doors that will not open, replace worn springs and cables, install new doors and openers, and keep older systems running safely. Our work takes us from lakefront cottages on Lac La Belle to historic homes near Fowler Lake and newer houses at Pabst Farms. Each of those homes has different doors, different garages and different needs, and we treat them that way instead of applying one answer to every call. Whatever the house, the goal is the same: a door that opens, closes and seals the way it should.",
+      "Our approach is simple. We show up when we say we will, we look at the whole door before we touch anything, and we tell you what we find in words that make sense. If a part is worn but still has life in it, we say so. If a repair is not worth the money compared with a new door, we say that too. We quote the price before work starts, and the decision stays with you. Most homeowners just want the door working again without a sales pitch, and that is how we like to work.",
+      "A garage door is a system, not a single part. The springs carry the weight, the cables lift it, the rollers guide it, the tracks hold it in line, and the opener only moves a door that is already balanced. When one piece fails, it is often because another piece has been wearing for a while. A snapped cable might trace back to a frayed drum. A noisy opener might be working too hard against a door that is out of balance. We check every part so the fix you pay for actually lasts.",
+      "Whole-system diagnosis matters even more in Lake Country. Our winters bring around 40 inches of snow, long stretches of deep cold, and road salt that ends up on every door bottom and track. Freeze-thaw cycles shift slabs and stress hardware. Humid lake summers swell wood and rust steel. A door that worked fine in September can struggle in January. By looking at balance, spring condition, track alignment, weather seals and opener settings together, we catch the problems that cold weather will expose before they leave you stuck. That kind of attention up front saves a second service call later.",
+      "We serve Oconomowoc and the communities around it, including the Village of Lac La Belle, the Village of Oconomowoc Lake, Okauchee, Summit, Delafield, Nashotah, Hartland and more. Our trucks carry common springs, cables, rollers and hardware so many repairs are finished on the first visit. When you need a new door or opener, we help you compare styles, materials and features that fit your home and your budget, then install it carefully and test everything before we leave. Same-day service is available when you call early in the day. If your door is stuck, give us a call and we will take it from there."
+    ]
+  },
+  "commonCalls": [
+    {
+      "label": "Door Will Not Lift",
+      "title": "Broken Spring",
+      "text": "A loud bang from the garage followed by a door that feels impossibly heavy usually means a torsion spring has snapped. Springs carry nearly all the door's weight, so the opener cannot lift it alone. Do not try to force the door or adjust the spring. Call us and we will replace it safely.",
+      "slug": "broken-garage-door-springs-repair"
+    },
+    {
+      "label": "Door Hangs Crooked",
+      "title": "Cable Failure",
+      "text": "When one side of the door sits higher than the other, or a cable is hanging loose beside the track, a lift cable has slipped or broken. A crooked door can jam or fall out of its tracks. Leave it closed, keep cars and people clear, and let us reset it correctly.",
+      "slug": "garage-door-cable-repair"
+    },
+    {
+      "label": "Opener Hums, Nothing Moves",
+      "title": "Opener Trouble",
+      "text": "If the opener hums, clicks or runs without moving the door, or the door reverses for no clear reason, the problem may be a worn gear, a misaligned sensor or a door that is out of balance. We test the door and opener together to find the real cause. Sometimes it is a simple adjustment.",
+      "slug": "garage-door-opener-repair"
+    }
+  ],
+  "fullwidth": {
+    "eyebrow": "Built for Lake Country",
+    "title": "Garage Doors That Stand Up to Lake Country Winters",
+    "text": "Oconomowoc winters are hard on garage doors. Temperatures have dropped as low as 33 below zero, snow piles up against door bottoms, and road salt finds its way into every track and hinge. Cold makes springs more likely to break and makes worn openers strain. We set up doors, springs, seals and openers with these conditions in mind, so your garage keeps opening on the mornings when you need it most."
+  },
+  "features": [
+    {
+      "title": "Price Before the Work",
+      "text": "We look over the door, explain what is wrong, and give you the price before we start. You know what the job costs and what is included, and you decide whether to move forward. No surprise line items show up after the work is already done. Small questions get straight answers too."
+    },
+    {
+      "title": "Same-Day Service",
+      "text": "A stuck garage door can trap your car or leave your home open. When you call early in the day, we can usually get a technician to your home that same day to make the door safe and get it working again. We will give you an honest arrival window when you call."
+    },
+    {
+      "title": "Parts on the Truck",
+      "text": "Our trucks carry common torsion and extension springs, cables, rollers, drums, hinges and opener parts. That means most repairs are finished in one visit instead of waiting on an order, which matters when it is ten degrees and your car is stuck inside. Fewer trips also keeps the job simpler for you."
+    },
+    {
+      "title": "Whole-Door Inspection",
+      "text": "We do not just swap the broken part and leave. We check balance, springs, cables, rollers, tracks, hinges, seals and opener settings, so you know the condition of the whole system and what to watch for down the road. It is the same check we would want on our own garage doors."
+    },
+    {
+      "title": "Straight Answers",
+      "text": "If a repair makes sense, we say so. If your door is near the end of its life and repairs will only buy a little time, we say that too. We explain your options plainly and leave the choice to you without pressure. A good repair should leave you feeling informed, not sold to."
+    },
+    {
+      "title": "Local Know-How",
+      "text": "From detached garages on older lake properties to three-car garages with tall doors at Pabst Farms, we know the homes in this area. That local experience helps us diagnose problems faster and recommend doors and openers that suit how you live. We know what these doors face each winter."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Call or Request Service",
+      "text": "Tell us what the door is doing, what you heard, and when it started. A few details help us bring the right parts. Call early in the day for the best chance at same-day service."
+    },
+    {
+      "title": "Full System Check",
+      "text": "Our technician looks at the springs, cables, rollers, tracks, drums, hinges, seals and opener, then explains what failed, why it failed, and what else is worn so you see the whole picture."
+    },
+    {
+      "title": "Clear Quote",
+      "text": "You get the price before any work starts. If there are options, such as repairing now or replacing the door, we lay them out with honest pros and cons so you can decide with confidence."
+    },
+    {
+      "title": "Repair and Test",
+      "text": "We complete the work, balance the door, lubricate moving parts, and test the opener, auto-reverse and safety sensors. We make sure the door runs smoothly and safely before we pack up."
+    }
+  ],
+  "repairReplace": {
+    "h2a": "Should You Repair",
+    "h2b": "Or Replace Your Door",
+    "intro": "Most garage door problems can be fixed with a repair, and we will always tell you when that is the case. Sometimes, though, the age and condition of the door make a new one the better use of your money. Here is how we help homeowners decide.",
+    "repair": {
+      "title": "Repair Makes Sense When",
+      "note": "A repair is usually the right choice when the door itself is in good shape and the problem is a single worn or broken part. These fixes are often completed in one visit.",
+      "bullets": [
+        "One broken spring or cable",
+        "Worn or noisy rollers",
+        "A single dented panel",
+        "Bent track from a minor bump",
+        "Opener sensor or remote issues",
+        "Worn bottom weather seal"
+      ]
+    },
+    "replace": {
+      "title": "Replacement Makes Sense When",
+      "note": "Replacement is often smarter when the door has several problems at once, the sections are damaged or rotting, or the door is old and repair costs keep adding up year after year.",
+      "bullets": [
+        "Several damaged or cracked sections",
+        "Rust or rot through the panels",
+        "Uninsulated door on a heated garage",
+        "Parts no longer available",
+        "Repeated repairs in recent years",
+        "You want a new look or better insulation"
+      ]
+    }
+  },
+  "newDoors": {
+    "h2a": "New Garage Doors",
+    "h2b": "For Every Oconomowoc Home",
+    "paragraphs": [
+      "A new garage door changes how your home looks from the street and how your garage feels in January. We help you compare styles, materials, insulation levels and window options, then install the door with properly sized springs, aligned tracks and a balanced lift. The goal is a door that looks right on your house, fits your budget, and runs quietly and safely for years without constant adjustment. We also haul away the old door and clean up when the job is done.",
+      "Style choices range from classic raised panel doors to carriage house, shaker, modern flush and full-view glass designs. Materials include steel in several gauges, wood composite, real wood and aluminum with glass. Insulated doors keep attached garages warmer and quieter, which helps when there is a bedroom or living space above. We bring samples to your home so you can compare colors and finishes against your own siding and trim in natural daylight.",
+      "Oconomowoc has a wide mix of homes, and each brings its own needs. Older lakefront cottages and estates often have detached garages with openings that do not match standard sizes. Historic downtown homes call for designs that respect their character. Subdivisions from the 1970s through the 1990s are often ready for a more modern door. New construction at Pabst Farms frequently includes three-car garages and taller doors. We size and style each door to the home in front of us.",
+      "Many lake households also need room for more than cars. Pontoons, wake boats, campers and trailers need tall doors with high lift tracks and springs matched to the extra weight. We plan custom sizes and heights when needed, and we pair new doors with openers that suit them, including quiet belt drive and wall-mounted models. Every installation finishes with a full test of the door, opener and safety sensors. You get the price before work starts, just like a repair."
+    ]
+  },
+  "seasons": [
+    {
+      "label": "Winter",
+      "title": "Cold Snaps and Broken Springs",
+      "text": "Deep cold makes steel springs more brittle, and winter is when most springs snap. Ice can freeze the bottom seal to the floor, and an opener forced against a frozen door can strip gears. If the door will not lift on a frigid morning, stop pressing the button and call us before something else breaks."
+    },
+    {
+      "label": "Spring",
+      "title": "Salt Cleanup and Thaw Damage",
+      "text": "After months of road salt and slush, spring is a good time to rinse the door bottom and tracks and look for rust. Freeze-thaw cycles can heave concrete and leave gaps under the door. We replace worn seals, check track alignment, and catch corrosion before it spreads into hinges and rollers. A quick look now prevents bigger repairs later in the year."
+    },
+    {
+      "label": "Summer",
+      "title": "Humidity, Heat and Busy Garages",
+      "text": "Humid lake summers can swell wood doors and speed rust on steel hardware. Garages get heavy use with boats, bikes and lake gear moving in and out. Summer is a smart time to replace noisy rollers, tune up the opener, and plan a new door before the fall rush. It is also a good season to check that photo-eyes are aligned."
+    },
+    {
+      "label": "Fall",
+      "title": "Get Ready Before the Snow",
+      "text": "Fall is the best time for a tune-up. We check spring tension, balance, cables and the opener so problems show up now instead of during the first cold week. Fresh weather seals keep out leaves, snow and mice, and a balanced door puts less strain on your opener all winter. It is a small visit that pays off in January."
+    }
+  ],
+  "tuneup": {
+    "intro": "A garage door opens and closes thousands of times a year, and every cycle wears the springs, rollers, cables and opener a little more. A professional tune-up catches worn parts before they fail and keeps the whole system balanced. For Lake Country homes, a yearly visit before winter is the best way to avoid being stuck on the coldest mornings of the year.",
+    "bullets": [
+      "Check spring condition and balance",
+      "Inspect lift cables and drums",
+      "Look over rollers and hinges",
+      "Check track alignment and fasteners",
+      "Lubricate moving parts",
+      "Test auto-reverse and photo-eyes",
+      "Adjust opener force and travel",
+      "Inspect bottom and side seals"
+    ],
+    "outro": "After the tune-up, we tell you what is in good shape and what is starting to wear, so you can plan ahead. If anything needs repair, we quote the price before doing the work, and you choose what happens next."
+  },
+  "area": {
+    "paragraphs": [
+      "Oconomowoc Garage Door serves homeowners throughout the city of Oconomowoc and the surrounding Lake Country communities in Waukesha County and nearby. We regularly work around Lac La Belle and Fowler Lake downtown, along Oconomowoc Lake, and in neighborhoods off Highway 16, Highway 67 and I-94. Our technicians know the area's mix of historic homes, lakefront properties, established subdivisions and new construction, and we plan every visit with that in mind. Call early in the day, and we can often be at your door the same day.",
+      "Our service area extends to the lake communities of Okauchee, Delafield, Nashotah and Chenequa, and to towns such as Hartland, Merton, Dousman, Summit, Ixonia, Ashippun and Watertown. Many of these homes sit near Okauchee Lake, Pine Lake, Lake Nagawicka, Lake Keesus or Silver Lake, where boats, detached garages and tough winters all shape what a garage door needs to do. If you are not sure whether we reach your address, call and ask. We will tell you right away. We are glad to help neighbors across the lakes."
+    ],
+    "places": [
+      "Oconomowoc",
+      "Village of Lac La Belle",
+      "Village of Oconomowoc Lake",
+      "Town of Oconomowoc",
+      "Pabst Farms",
+      "Summit",
+      "Okauchee",
+      "Delafield",
+      "Nashotah",
+      "Hartland",
+      "Dousman",
+      "Ixonia",
+      "Merton",
+      "Chenequa",
+      "Watertown",
+      "Ashippun"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Do you offer same-day garage door repair in Oconomowoc?",
+      "a": "Yes. When you call early in the day, we can usually send a technician to your home that same day. Our trucks carry common springs, cables, rollers and opener parts, so many repairs are finished during the first visit. If your door is stuck open, stuck closed, or hanging crooked, let us know when you call so we can plan around the most urgent problems first."
+    },
+    {
+      "q": "How do I know if my garage door spring is broken?",
+      "a": "The most common sign is a loud bang from the garage, followed by a door that will not lift or feels extremely heavy. You may see a gap in the torsion spring above the door. The opener may strain, hum or lift the door only a few inches. Do not try to adjust or release the spring yourself, since springs are under high tension. Call us for a safe replacement."
+    },
+    {
+      "q": "Can I open my garage door with a broken spring?",
+      "a": "We strongly recommend against it. With a broken spring, the full weight of the door rests on the opener and on you, and a door can weigh well over a hundred pounds. Forcing it can damage the opener, bend the sections, or cause the door to drop suddenly. Keep the door closed if you can, keep people and pets clear, and call us. We can get it moving safely."
+    },
+    {
+      "q": "Do you tell me the price before starting work?",
+      "a": "Always. We inspect the door, explain what we found, and give you the price before any work begins. If there are choices, such as replacing one spring or both, or repairing versus replacing the door, we explain each one so you can decide. You will not find surprise charges on the bill after the job is done. That is how we would want to be treated as customers ourselves, and it is the only fair way to run a repair business."
+    },
+    {
+      "q": "Should I repair my old garage door or buy a new one?",
+      "a": "It depends on the door's condition. If the sections are solid and only one part has failed, a repair is usually the better value. If the door has rust or rot, several damaged panels, no insulation in a heated garage, or a history of repeated repairs, a new door may make more sense. We give you an honest opinion either way and let you choose."
+    },
+    {
+      "q": "Why does my garage door act up in cold weather?",
+      "a": "Cold affects nearly every part of the system. Lubricants thicken, metal springs lose some flexibility, and bottom seals can freeze to the floor. Openers may also reverse because the door feels heavier in the cold. A door that is slightly out of balance in fall often struggles badly in January. A pre-winter tune-up is the best way to prevent these problems. It is quick and worth it."
+    },
+    {
+      "q": "Do you install garage door openers?",
+      "a": "Yes. We install new openers, including quiet belt drive models, chain drive models and wall-mounted openers that free up ceiling space for storage or tall doors. We also repair existing openers when that makes sense. Every installation includes setting the force and travel limits and testing the auto-reverse and safety sensors so the opener works safely with your door. We explain how to use every feature before we leave."
+    },
+    {
+      "q": "What areas around Oconomowoc do you serve?",
+      "a": "We serve the city of Oconomowoc and nearby communities, including the Village of Lac La Belle, the Village of Oconomowoc Lake, the Town of Oconomowoc, Summit, Okauchee, Delafield, Nashotah, Hartland, Dousman, Ixonia, Merton, Chenequa, Watertown and Ashippun. If your home is in Lake Country and you are not sure whether we reach you, give us a call and we will let you know. Same-day visits are often possible."
+    }
+  ],
+  "cta": {
+    "title": "Get Your Garage Door Working Again",
+    "text": "Call Oconomowoc Garage Door for repairs, new doors and openers. We find the real problem, quote the price before work starts, and offer same-day service when you call early in the day."
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oconomowocgaragedoor.com/sitemap.xml
