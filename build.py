@@ -33,7 +33,7 @@ CAT_KEY = {"Service & Repair": "repair", "Garage Doors": "doors", "Garage Door O
 # slug, nav name, category, card blurb, primary image, secondary image
 SERVICES = [
     ("garage-door-repairs", "Garage Door Repair", "Service & Repair", "Noisy, stuck, crooked or slow. We trace the real cause and fix it properly the first time.", "garage-door-repair-oconomowoc", "technician-garage-door-panels"),
-    ("same-day-garage-door-repair-service", "Emergency Repair", "Service & Repair", "Door stuck open or car trapped inside? Call early and we work to get you moving today.", "same-day-garage-door-repair-winter", "snowy-tudor-home-garage"),
+    ("same-day-garage-door-repair-service", "Same Day Repair", "Service & Repair", "Door stuck open or car trapped inside? Call early and we work to get you moving today.", "same-day-garage-door-repair-winter", "snowy-tudor-home-garage"),
     ("broken-garage-door-springs-repair", "Spring Replacement", "Service & Repair", "Torsion and extension springs sized to your door's weight and balanced by hand.", "garage-door-spring-closeup", "technician-drilling-track"),
     ("garage-door-cable-repair", "Cable Replacement", "Service & Repair", "Frayed or snapped lift cables replaced and wound evenly so the door rises level.", "garage-door-cable-replacement", "garage-door-cable-hardware"),
     ("roller-replacement-repair", "Roller Replacement", "Service & Repair", "Sealed-bearing nylon rollers that end the grinding and take strain off your opener.", "garage-door-roller-track", "technician-ladder-garage"),
@@ -317,7 +317,7 @@ def home():
 </div></section>
 
 <section class="sec"><div class="wrap">
-<div class="head head--row"><div>{kicker("The Calls We Get Most")}{h2("Three Problems,", "Handled Fast")}</div>{arrow_btn("/same-day-garage-door-repair-service/", "Emergency Repair", "btn btn--primary btn--sm")}</div>
+<div class="head head--row"><div>{kicker("The Calls We Get Most")}{h2("Three Problems,", "Handled Fast")}</div>{arrow_btn("/same-day-garage-door-repair-service/", "Same Day Repair", "btn btn--primary btn--sm")}</div>
 <div class="calls">{calls}</div>
 </div></section>
 
