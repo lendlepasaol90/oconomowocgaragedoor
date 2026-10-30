@@ -21,9 +21,9 @@ SITE = {
     "city": "Oconomowoc", "state": "WI", "zip": "53066",
     "hours": "Mon–Sat 7am–7pm",
     "form_endpoint": "",   # e.g. https://formspree.io/f/xxxx  (blank = on-page confirmation only)
-    "logo": "",            # e.g. "/images/logo.webp"  (blank = text wordmark)
+    "logo": "/images/logo.webp",  # 2x version at /images/logo@2x.webp (blank = text wordmark)
     "logo_footer": "",     # optional light/white version for the dark footer
-    "favicon": False,      # set True once favicon.ico, favicon-32.png, apple-touch-icon.png are in /public
+    "favicon": True,       # set True once favicon.ico, favicon-32.png, apple-touch-icon.png are in /public
 }
 HOME_TITLE = "Same Day Garage Door Repair & Installation in Oconomowoc, WI"
 
@@ -106,7 +106,8 @@ def bg(name, cls="bgimg"):
 def logo(footer=False):
     src = SITE["logo_footer"] if footer and SITE["logo_footer"] else SITE["logo"]
     if src:
-        return f'<a class="logo" href="/" aria-label="{e(SITE["name"])} home"><img src="{src}" alt="{e(SITE["name"])}" class="logo__img"></a>'
+        cls = "logo logo--footer" if footer else "logo"
+        return f'<a class="{cls}" href="/" aria-label="{e(SITE["name"])} home"><img src="{src}" srcset="{src} 1x, {src.replace(".webp", "@2x.webp")} 2x" alt="{e(SITE["name"])} logo" width="520" height="250" class="logo__img"{"" if footer else " fetchpriority=" + chr(34) + "high" + chr(34)}></a>'
     return f'<a class="logo" href="/" aria-label="{e(SITE["name"])} home">{MARK}<span class="logo__txt"><b>Oconomowoc</b><small>Garage Door</small></span></a>'
 
 # ---------------------------------------------------------------- chrome

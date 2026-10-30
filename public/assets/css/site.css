@@ -98,14 +98,17 @@ svg{flex:none}
 .header::before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(255,255,255,.8);backdrop-filter:saturate(1.6) blur(16px);-webkit-backdrop-filter:saturate(1.6) blur(16px);transition:background .4s}
 .header.is-scrolled{box-shadow:0 10px 30px -18px rgba(30,52,66,.35);border-color:var(--line)}
 .header.is-scrolled::before{background:rgba(255,255,255,.93)}
-.header__in{display:flex;align-items:center;gap:24px;height:78px;transition:height .4s var(--ease)}
-.header.is-scrolled .header__in{height:66px}
+.header__in{display:flex;align-items:center;gap:24px;height:88px;transition:height .4s var(--ease)}
+.header.is-scrolled .header__in{height:70px}
 .logo{display:flex;align-items:center;gap:11px;flex:none}
 .logo .mark{width:42px;height:42px}
 .logo__txt{display:flex;flex-direction:column;line-height:1}
 .logo__txt b{font:600 1.24rem/1 var(--serif);letter-spacing:-.01em}
 .logo__txt small{font:700 .66rem/1 var(--sans);letter-spacing:.28em;text-transform:uppercase;color:var(--lake);margin-top:5px}
-.logo__img{height:52px;width:auto}
+.logo__img{height:70px;width:auto;transition:height .4s var(--ease)}
+.header.is-scrolled .logo__img{height:56px}
+.logo--footer{display:inline-flex;padding:14px 18px;background:#fff;border-radius:18px;box-shadow:var(--shadow)}
+.logo--footer .logo__img{height:76px}
 nav{margin-left:auto}
 .nav{display:flex;align-items:center;gap:2px}
 .nav>li{position:relative}
@@ -518,6 +521,7 @@ nav{margin-left:auto}
   .header__in{height:68px;gap:12px}
   .header__cta .btn{display:none}
   .logo .mark{width:38px;height:38px}
+  .logo__img,.header.is-scrolled .logo__img{height:48px}
   .logo__txt b{font-size:1.1rem}
   .hero{padding:40px 0 120px}
   .quote{padding:22px;border-radius:26px}
